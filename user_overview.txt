@@ -1,0 +1,46 @@
+
+Total number of users                                   6
+Total number of tasks generated using Task Manager:     3     
+        
+User:                         admin
+Number of user tasks          1
+Percentage of total tasks     33.33
+Percentage completed          100.0
+Percentage incomplete         0.0
+Percentage overdue            0.0
+                    
+User:                         anele
+Number of user tasks          2
+Percentage of total tasks     66.67
+Percentage completed          0.0
+Percentage incomplete         100.0
+Percentage overdue            100.0
+                    
+User:                         shamase
+Number of user tasks          0
+Percentage of total tasks     0.0
+Percentage completed          0
+Percentage incomplete         0
+Percentage overdue            0
+                    
+User:                         zwe
+Number of user tasks          0
+Percentage of total tasks     0.0
+Percentage completed          0
+Percentage incomplete         0
+Percentage overdue            0
+                    
+User:                         thabo
+Number of user tasks          0
+Percentage of total tasks     0.0
+Percentage completed          0
+Percentage incomplete         0
+Percentage overdue            0
+                    
+User:                         sizwe
+Number of user tasks          0
+Percentage of total tasks     0.0
+Percentage completed          0
+Percentage incomplete         0
+Percentage overdue            0
+                    
